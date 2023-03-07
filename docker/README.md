@@ -8,7 +8,7 @@
 
    <i>docker run -d --name my-phpmyadmin -e PMA_ARBITRARY=1 -p 8080:80 --network minha-rede phpmyadmin/phpmyadmin<i> 
 
-3. Logo em seguida podemos entraremos no <i>localhost:8080<i> e dentro do container colocaremos.<br>
+3. Logo em seguida poderemos entrar no <i>localhost:8080<i> e dentro do container colocaremos.<br>
     <ul>
     <li><strong>Servidor: <strong> <i> my-mysql <i>
     <li><strong>Usuário: <strong> <i> root<i>
